@@ -1,0 +1,4 @@
+# Python Projects For AI Learning from Basic
+[Source Playlist](https://www.youtube.com/watch?v=yQRF3JOV3mk&list=PLUTKklmYVO37Ik8K1Ftdp4ULk3dMBCKYp&ab_channel=KuldeepSinghRathore%7CAITradingAutomation)
+- [Cource Targeted Contents](https://onedrive.live.com/personal/b8795789829a5342/_layouts/15/Doc.aspx?sourcedoc=%7B829a5342-5789-2079-80b8-b10000000000%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvcyFBa0pUbW9LSlYzbTRnVEdDVEtlZVlQUUxwMGlKP2U9Y2QydlF1&slrid=1eadbda1-2076-9000-f5c2-3097f16ebb43&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy9iODc5NTc4OTgyOWE1MzQyL1FVSlRtb0tKVjNrZ2dMaXhBQUFBQUFBQWdreW5ubUQwQzZkSWlRP3J0aW1lPWdlZF9weFBnM1Vn&CID=e81f444e-59e1-405d-9133-eb0cceea139c&_SRM=0:G:62)
+- [All Code](https://github.com/thekuldeepsingh/100-Days-Of-Hell-With-Python-Algotrading/tree/main/Day_1_Python_Basics)

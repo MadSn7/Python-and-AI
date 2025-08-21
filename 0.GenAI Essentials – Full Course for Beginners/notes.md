@@ -1,7 +1,7 @@
 # GenAI Essentials – Full Course for Beginners
 - [Video Link](https://www.youtube.com/watch?v=nJ25yl34Uqw&ab_channel=freeCodeCamp.org)
 - [After This Can Do This](https://www.youtube.com/watch?v=DOXJ7s1D6iE&ab_channel=freeCodeCamp.org)
-
+## My Conlusion : Too Much Theory
 ## AI -> ML -> DL -> GenAI etc
 - AI : Machines that perform jobs that mimic human behavior 
 - ML : Machine that get better at a task without explicit programming(After model is created, it will work on it's own and improve)
@@ -25,4 +25,23 @@
 - Different algos are there MSE, RMSE, MAE etc
 
 ## Classification
-- Process of finding a function to divide a labeled dataset into classescategories
+- Process of finding a function to divide a `labeled` dataset into classescategories
+- Different Algos like logistic regression, Decision Tree/Random Forest, Neural Networks, Naive Bayes, KNN etc
+
+## Clustering
+- Grouping `unlabeled` data bases on sumukaritites and differences
+- Different Algos K-means, k-medooids, Heirarchial etc
+
+## Types Of Machine Learning
+- Many Types of ML
+- Leaning Problems
+    - Supervised : Labeled data
+    - Unsupervised : unlabeled data
+    - Reinforcement : an agent operates and
+    then improves on feedback
+- Hybrid Learning Problems
+    - Semi-Supervised : few labeled and large no of unlabeled data
+    - Self-Supervised
+    - Multi-Instance
+
+## Seems like too much theory focused
